@@ -1,8 +1,7 @@
 # Vidly
-[![GitHub Release](https://img.shields.io/github/release/zjayers/vidly.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/vidly.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/vidly.svg?style=flat)](https://github.com/zjayers/vidly/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/vidly.svg?style=flat)](https://github.com/zjayers/vidly/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/vidly.svg?maxAge=25000)](https://github.com/zjayers/vidly/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/vidly/blob/master/LICENSEs)
 
 ## Description
 
